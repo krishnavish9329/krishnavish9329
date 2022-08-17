@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/krishna kumar vishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna kumar vishwakarma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krishna-kumar-vishwakarma-0439ab216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna kumar vishwakarma" height="30" width="40" /></a>
 <br>
 <br>
 <a href="https://www.hackerrank.com/krishna_vish9329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krishna_vish9329" height="30" width="40" /></a>
