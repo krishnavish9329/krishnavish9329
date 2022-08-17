@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishnavish9329
 - 👀 I’m interested in c and c++ language
-- 🌱 I’m currently learning python nad core java and Web Developer
+- 🌱 I’m currently learning python and core java and Web Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/feed/
 
