@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krishna Kumar Vishwakarma</h1>
+<h1 align="center">Hi 👋, I'm <a herf="https://krishnavish9329.github.io/OIBSIP-TASK2/"> Krishna Kumar Vishwakarma </a></h1> 
 <h3 align="center">I'm running on the way of wed developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/OblongJaggedBluemorphobutterfly-size_restricted.gif">
@@ -8,8 +8,7 @@
 - 👀 I’m interested in c,c++ and core java language
 - 🌱 I've learn HTML,CSS,JavaScript,Node js,Express js,SQL
 - 🌱 I’m currently learning **python ,Reack js,Postgre Sql**
-- 🌱 my project  Number Guessing Game https://krishnavish9329.github.io/Number-Guessing-Game/
-                 Calculator https://krishnavish9329.github.io/Calculator/
+- 🌱 my project  Number Guessing Game https://krishnavish9329.github.io/Number-Guessing-Game/ , Calculator https://krishnavish9329.github.io/Calculator/ , Weather app https://krishnavish9329.github.io/weather_app/ ,Amazon Homepage Clone https://krishnavish9329.github.io/Amazon-Homepage-Clone/ ,Clock Digital Stop Watch https://krishnavish9329.github.io/Clock-Digital-Stop-Watch/ , Stone-Paper-Scissors https://github.com/krishnavish9329/Stone-Paper-Scissors/settings/pages , temperature converter
 
 
 
