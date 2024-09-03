@@ -1,11 +1,24 @@
 <h1 align="center">Hi 👋, I'm Krishna Kumar Vishwakarma</h1>
 <h3 align="center">I'm running on the way of Full Stack developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/OblongJaggedBluemorphobutterfly-size_restricted.gif">
 
 - 🌱 I’m currently learning **React JS, python , MongoDB**
 
+- 👀 I’m interested in **C,c++ and core java , Javascript, Mysql, MongoDB**
+
 - 👨‍💻 All of my projects are available at [https://krishnavish9329.github.io/My-Portfolio/](https://krishnavish9329.github.io/My-Portfolio/)
 
-- 💬 Ask me about **Core Java, Node JS, Express JS**
+- 💬 Ask me about **Node JS, Express JS**
+
+- 🌱 my project:-
+- Number Guessing Game https://krishnavish9329.github.io/Number-Guessing-Game/ ,
+- Calculator https://krishnavish9329.github.io/Calculator/ ,
+- Weather app https://krishnavish9329.github.io/weather_app/ ,
+- Amazon Homepage Clone https://krishnavish9329.github.io/Amazon-Homepage-Clone/ ,
+- Clock Digital Stop Watch https://krishnavish9329.github.io/Clock-Digital-Stop-Watch/ ,
+- Stone-Paper-Scissors https://github.com/krishnavish9329/Stone-Paper-Scissors/settings/pages ,
+- temperature converter
+
 
 - 📫 How to reach me **krishna.vish9329@gmail.com**
 
