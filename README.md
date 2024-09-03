@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://krishnavish9329.github.io/My-Portfolio/](https://krishnavish9329.github.io/My-Portfolio/)
 
-- 💬 Ask me about **Basic Java, Node JS, Express JS**
+- 💬 Ask me about **Core Java, Node JS, Express JS**
 
 - 📫 How to reach me **krishna.vish9329@gmail.com**
 
