@@ -2,11 +2,13 @@
 <h3 align="center">I'm running on the way of Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/OblongJaggedBluemorphobutterfly-size_restricted.gif">
 
-- 🔭 I’m currently working on some projects.
+- 🔭 I’m currently working on **some projects**.
 
-- 🌱 I’m currently learning **React JS, python , MongoDB**
+- 🌱 I’m currently learning **MERN Stack Development**.
+  
+- 👯 I’m looking to collaborate on **Applications built in FastAPI and ExpressJS**.
 
-- 👀 I’m interested in **C,c++ and core java , Javascript, Mysql, MongoDB**
+- 👀 I’m interested in **C,c++ and core java , Javascript, NodeJs, ExpressJS Mysql, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://krishnavish9329.github.io/My-Portfolio/](https://krishnavish9329.github.io/My-Portfolio/)
 
