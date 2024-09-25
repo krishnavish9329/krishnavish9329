@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Kumar Vishwakarma</h1>
 <h3 align="center">I'm running on the way of Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/OblongJaggedBluemorphobutterfly-size_restricted.gif">
+- 🔭 I’m currently working on some projects.
 
 - 🌱 I’m currently learning **React JS, python , MongoDB**
 
