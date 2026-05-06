@@ -12,7 +12,7 @@
 
 🚀 Building scalable web applications using **MERN Stack**  
 
-🌱 Currently learning **Next.js, Django & Advanced Backend Systems**  
+🌱 Currently learning **Next.js, Advanced Backend Systems design**  
 🧠 Passionate about **problem solving, system design & clean code**  
 🎯 Goal: To become a highly skilled **Full Stack Developer**  
 
@@ -76,6 +76,18 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnavish9329&layout=compact&theme=tokyonight&hide_border=true" height="165em"/>
+</p>
+
+---
+
+## ✨ Fun Touch  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=krishnavish9329&theme=darkhub&no-bg=true&no-frame=true&margin-w=5"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krishnavish9329/krishnavish9329/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
